@@ -1,0 +1,14 @@
+D:\学习资料\windows程序设计\CaculateGPA\CaculateGPA\bin\x86\Debug\CaculateGPA.exe.config
+D:\学习资料\windows程序设计\CaculateGPA\CaculateGPA\bin\x86\Debug\CaculateGPA.exe.manifest
+D:\学习资料\windows程序设计\CaculateGPA\CaculateGPA\bin\x86\Debug\CaculateGPA.application
+D:\学习资料\windows程序设计\CaculateGPA\CaculateGPA\bin\x86\Debug\CaculateGPA.exe
+D:\学习资料\windows程序设计\CaculateGPA\CaculateGPA\bin\x86\Debug\CaculateGPA.pdb
+D:\学习资料\windows程序设计\CaculateGPA\CaculateGPA\obj\x86\Debug\CaculateGPA.AboutBox1.resources
+D:\学习资料\windows程序设计\CaculateGPA\CaculateGPA\obj\x86\Debug\CaculateGPA.Form1.resources
+D:\学习资料\windows程序设计\CaculateGPA\CaculateGPA\obj\x86\Debug\CaculateGPA.Properties.Resources.resources
+D:\学习资料\windows程序设计\CaculateGPA\CaculateGPA\obj\x86\Debug\CaculateGPA.csproj.GenerateResource.Cache
+D:\学习资料\windows程序设计\CaculateGPA\CaculateGPA\obj\x86\Debug\CaculateGPA.exe.manifest
+D:\学习资料\windows程序设计\CaculateGPA\CaculateGPA\obj\x86\Debug\CaculateGPA.application
+D:\学习资料\windows程序设计\CaculateGPA\CaculateGPA\obj\x86\Debug\CaculateGPA.exe
+D:\学习资料\windows程序设计\CaculateGPA\CaculateGPA\obj\x86\Debug\CaculateGPA.pdb
+D:\学习资料\windows程序设计\CaculateGPA\CaculateGPA\obj\x86\Debug\CaculateGPA.csprojResolveAssemblyReference.cache
